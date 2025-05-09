@@ -1,0 +1,11 @@
+
+__pycache__/
+*.pyc
+.venv/
+env/
+.DS_Store
+webscan_*.txt
+webscan_*.csv
+webscan_*.json
+webscan_*.html
+tmp*

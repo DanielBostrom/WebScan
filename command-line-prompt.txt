@@ -1,0 +1,3 @@
+py WebScan.py -u http://localhost:8000 -w wordlist.txt
+
+py WebScan.py -u http://localhost:8000 -w wordlist.txt --full -i
